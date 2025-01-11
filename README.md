@@ -41,6 +41,8 @@ Use /addped [model] to save a ped model.
 
 Use /savedpeds to open the menu and view saved peds.
 
+![image](https://github.com/user-attachments/assets/00550cd2-7d0f-49d5-8c8a-47f909aaebdf)
+
 License
 
 This project is licensed under the MIT License.
